@@ -3,3 +3,18 @@
     color: aqua;
     font-family: fantasy;
 }
+html{
+    text-align: center;
+}
+span div{
+    text-align: right;
+    margin-right: 250px;
+}
+span img{
+    text-align:center;
+    margin-top: 0px;
+}
+#contacts{
+    
+    font-size: 25px;
+}
