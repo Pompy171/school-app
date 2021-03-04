@@ -5,16 +5,24 @@
 }
 html{
     text-align: center;
+    scroll-behavior: smooth;
 }
 span div{
-    text-align: right;
+    
     margin-right: 250px;
 }
 span img{
-    text-align:center;
+    
     margin-top: 0px;
 }
 #contacts{
     
     font-size: 25px;
+}
+h6{
+    font-size: 10px;
+}
+h7{
+    font-size: 20px;
+    font-weight: bold;
 }
